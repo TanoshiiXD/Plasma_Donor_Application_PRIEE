@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Apollo Hospital",
+    "type": "Private",
+    "facility_type": "Hospital",
+    "address": "21/9, Greams Ln, Thousand Lights West, Thousand Lights, Chennai, Tamil Nadu 600006",
+    "contact_numbers": [
+      "044-28290200"
+    ],
+    "latitude": "13.056689779034748",
+    "longitude": "80.25128665514637",
+    "location": "https://maps.app.goo.gl/M1Sz7Xh8vXjvxBtL6"
+  },
+  {
+    "name": "C.S.I Kalayani Hospital",
+    "type": "Private",
+    "facility_type": "Hospital",
+    "address": "15, Dr Radha Krishnan Salai, Loganathan Colony, Mylapore, Chennai, Tamil Nadu 600004",
+    "contact_numbers": [
+      " 28476433"
+    ],
+    "latitude": "13.043061157621592",
+    "longitude": "80.27234797270457",
+    "location": "https://maps.app.goo.gl/SWm9KJWeCo46YMWy5"
+  },
+  {
+    "name": "Fortis Malar Hospital",
+    "type": "Private",
+    "facility_type": "Hospital",
+    "address": "52, 1st Main Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+    "contact_numbers": [
+      "044-42892222"
+    ],
+    "latitude": "13.010160933392779",
+    "longitude": "80.258616",
+    "location": "https://maps.app.goo.gl/XX2baU7eNBhdJUpb9"
+  },
+  {
+    "name": " Kilpauk Hospital",
+    "type": "Government",
+    "facility_type": "Hospital",
+    "address": "Kilpauk, Chennai, Tamil Nadu,600 010",
+    "contact_numbers": [
+      "044-28364951"
+    ],
+    "latitude": "13.081396855314829",
+    "longitude": "80.23475378992426",
+    "location": "https://maps.app.goo.gl/FNJ6ADmNeJFYijhG7"
+  },
+  {
+    "name": " Government General Hospital",
+    "type": "Government",
+    "facility_type": "Hospital",
+    "address": "Poonamallee High Road, Park Town, Chennai-600003",
+    "contact_numbers": [
+      "044-25305000"
+    ],
+    "latitude": "13.078255393614299",
+    "longitude": "80.1007382656321",
+    "location": "https://maps.app.goo.gl/B7xsPRLnx2zV51W3A"
+  },
+  {
+    "name": " Billroth Hospital",
+    "type": "Private",
+    "facility_type": "Hospital",
+    "address": "43, Lakshmi Talkies Rd, Shenoy Nagar, Chennai, Tamil Nadu 600030",
+    "contact_numbers": [
+      "04442921777"
+    ],
+    "latitude": "13.078440384945512",
+    "longitude": "80.2267455080115",
+    "location": "https://maps.app.goo.gl/gsxKRppYZvX1mgEx8"
+  },
+  {
+    "name": "Govt Kasturba Hospital for Women ",
+    "type": "Goverment",
+    "facility_type": "Hospital",
+    "address": "375H+R87, Chepauk, Triplicane, Victoria Hostel Rd, Chennai, Tamil Nadu 600005",
+    "contact_numbers": [
+      "04428544901"
+    ],
+    "latitude": "13.059648977682901",
+    "longitude": "80.2782667022102",
+    "location": "https://maps.app.goo.gl/1LowNS3zEtfT4zCA6"
+  },
+  {
+    "name": "Dr. Mehtas Hospital ",
+    "type": "Private",
+    "facility_type": "Hospital",
+    "address": "No.2, 2/1,2, 3, Mc Nichols Road 3rd Ln, Chetpet, Chennai, Tamil Nadu 600031",
+    "contact_numbers": [
+      "04442271001"
+    ],
+    "latitude": "13.071820287559964",
+    "longitude": "80.24040552605123",
+    "location": "https://maps.app.goo.gl/QJmw7b9Nk8BDirnx7"
+  },
+  {
+    "name": "Government Royapettah Hospital ",
+    "type": " Government ",
+    "facility_type": "Hospital",
+    "address": "1, West Cott Road, Royapettah, Chennai, Tamil Nadu 600014",
+    "contact_numbers": [
+      "04428483051"
+    ],
+    "latitude": " 13.0553256191174",
+    "longitude": " 80.26482437337522 ",
+    "location": "https://maps.app.goo.gl/6LtX47EkfJQZiTGD7"
+  },
+  {
+    "name": " MIOT Hospital ",
+    "type": " Private ",
+    "facility_type": "Hospital",
+    "address": "4/112, Mount Poonamallee Rd, Sathya Nagar, Manapakkam, Chennai, Tamil Nadu 600089",
+    "contact_numbers": [
+      "04442002288"
+    ],
+    "latitude": "13.022571181442649",
+    "longitude": "80.18622019256132",
+    "location": "https://maps.app.goo.gl/Jed2WCU6PsT2bTWQ9"
+  },
+  {
+    "name": "Sankara NethralayaHospital ",
+    "type": " Private ",
+    "facility_type": "Hospital",
+    "address": "41 Old No 18, College Rd, Nungambakkam, Chennai, Tamil Nadu 600006",
+    "contact_numbers": [
+      "04442271500"
+    ],
+    "latitude": "13.067016950591674",
+    "longitude": "80.25054855392078",
+    "location": "https://maps.app.goo.gl/QJAGEKVWy5MnXhAw7"
+  }
+]
